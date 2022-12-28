@@ -6,3 +6,5 @@ print("shiva is good")
 print("github")
 print('surbhi')
 print("pangea")
+multiply=2*3
+print(multiply)
